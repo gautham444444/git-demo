@@ -1,3 +1,3 @@
 # git-demo
 
-Author - Gautham Poojary
+Author - Gautham 
